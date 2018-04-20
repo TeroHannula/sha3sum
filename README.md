@@ -9,7 +9,7 @@ sha3sum -h
 sha3sum --help  
 
 l = hash length in bits, value can be 224, 256, 384 or 512  
-q = quiet, output the hash only, not filename or hash lenght  
+q = quiet, output the hash only, not filename or hash length  
 file = the file to be hashed  
 
 ## Examples
