@@ -4,14 +4,14 @@ A SHA3 hash calculator
 
 # Usage
 
-sha3sum file
-sha3sum [-l length] [-q] file
-sha3sum -h 
-sha3sum --help
+sha3sum file  
+sha3sum [-l length] [-q] file  
+sha3sum -h  
+sha3sum --help  
 
-l = "length", value can be 224, 256, 384 or 512
-q = "quiet", output the hash only
-file = the file to be hashed
+l = "length", value can be 224, 256, 384 or 512  
+q = "quiet", output the hash only  
+file = the file to be hashed  
 
 ## Examples
 
