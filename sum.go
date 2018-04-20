@@ -57,12 +57,12 @@ func main() {
 	}
 
 	/*
+		Arbitrary long hashes to be supported later
 
-		// minimum 64 bytes long hash, provides 256-bit collision resistance.
+		// 64 bytes (512 bits) long hash provides 256-bit collision resistance.
 		h := make([]byte, *hashlengthPtr)
 		// Compute a 64-byte hash of buf and put it in h.
 		sha3.ShakeSum256(h, data)
-
 		fmt.Printf("%x\n", h)
 	*/
 }
